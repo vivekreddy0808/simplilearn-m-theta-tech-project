@@ -28,10 +28,10 @@ Demo for M-theta Technology Solutions ( Simplilearn )
         -   `git branch`
      
     - If it's main branch, then switch it to master branch by using below command 
-         - `git branch -m main master
-            git fetch origin
-            git branch -u origin/master master
-            git remote set-head origin -a`
+         - `git branch -m main master`
+         - `git fetch origin`
+         - `git branch -u origin/master master`
+         - `git remote set-head origin -a`
      
     - Once the Master branch is created for production now, it's time for us to create a HotFix and Integration Branch for future changes
 - Step 3: 
